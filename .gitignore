@@ -3,3 +3,4 @@ __pycache__/
 **/Datasets
 **/savedFiles
 models/
+datasets/
